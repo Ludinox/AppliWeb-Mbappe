@@ -7,7 +7,9 @@
   <title>Hola</title>
 </head>
 <body>
+  <!--Aqui se crea una division en este caso un articulo para encasillar esta parte del codigo -->
 <article>
+  <!--H1 para el texto seguido del mensaje que quiero que aparezca-->
   <h1>What's Going On</h1>
   <p>Hello World by Adrian Perez</p>
 </article>
